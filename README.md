@@ -23,9 +23,7 @@ DIV2K: https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
 <br>
 <p align="center"><img width="1500" src="https://github.com/aryanjain28/Super-Resolution/raw/main/Screenshots/Screenshot0.png"></p>
-<br>
 
-<br>
 <p align="center"><img width="1500" src="https://github.com/aryanjain28/Super-Resolution/raw/main/Screenshots/Screenshot1.png"></p>
 
 <p align="center"><img width="1500" src="https://github.com/aryanjain28/Super-Resolution/raw/main/Screenshots/Screenshot2.png"></p>
