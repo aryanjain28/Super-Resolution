@@ -14,7 +14,7 @@ DIV2K: https://data.vision.ee.ethz.ch/cvl/DIV2K/
 # Model architecture
 
 <br>
-<p align="center"><img width="800" src="https://github.com/aryanjain28/Super-Resolution/raw/main/Screenshots/Model_Architecture.png"></p>
+<p align="center"><img width="800" src="https://raw.githubusercontent.com/aryanjain28/Super-Resolution/main/ScreenShots/Model_Architecture.png"></p>
 <br>
 
 
