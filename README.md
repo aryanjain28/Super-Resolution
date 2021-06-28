@@ -2,7 +2,7 @@
 Super Resolution using EDSR.
 Enhanced Deep Residual Networks for Single Image Super-Resolution (EDSR) model trained to convert a Low-Resolution image to a Super-Resolution image. 
 
-# Process (Briefly explanation)
+# Process (Brief explanation)
 
 1. We train an EDSR model with low-resolution image as input and the same high-resolution image as output. Generator and Discriminator part is not used here.
 2. After training EDSR like above, we fine tune the high resolution (HR) images by building a model using EDSR as generator and a discriminator and train it giving LR and HR images pair as input and taking SR images as output.
